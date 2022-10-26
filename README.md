@@ -1,19 +1,21 @@
 ### Hi there 👋
 
-<!--
-**PauloCMoreira/PauloCMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  - <b>I am a Full Stack Developer 💻</b> 
+</p> 
 
-Here are some ideas to get you started:
+<p>
+  -📌 <b>Living in <b>Rio de Janeiro, Brazil</b> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+   - 📫 How to contact me:
+   
+   <p> </p>
+<div align="center">
+  <a href="https://beacons.ai/NicoleMdaSilva">
+  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=NicoleMdaSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleMdaSilva&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
 
 ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
