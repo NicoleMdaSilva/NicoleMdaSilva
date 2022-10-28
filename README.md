@@ -18,12 +18,12 @@
      <p align="center">
      <img 
        align="center" 
-       height="165"
+       height="155"
        src="https://github-readme-stats.vercel.app/api?username=NicoleMdaSilva&show_icons=true&include_all_commits=true&theme=radical" alt="marcelo-rafael github stats" 
      />
      <img 
        align="center" 
-       height="165"
+       height="155"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleMdaSilva&layout=compact&theme=radical" 
      />
   </p>
